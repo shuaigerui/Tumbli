@@ -1,0 +1,1408 @@
+开始自动混淆项目代码扫描文件中。。。。。。
+
+
+混淆项目路径：/Users/a0000/Desktop/whc_clone_directory/Tumbli
+新文件 <-> 现有文件 : LaunchScreen.storyboard      LaunchScreen.storyboard
+新文件 <-> 现有文件 : Main.storyboard      Main.storyboard
+新文件 <-> 现有文件 : TB_InterestSuccessController.swift      ViewController.swift
+新文件 <-> 现有文件 : TB_InfoController.swift      AA_AIChatRoomVC.swift
+新文件 <-> 现有文件 : TB_ChatHeaderController.swift      AA_CreateAIVC.swift
+新文件 <-> 现有文件 : TB_Current.swift      AA_HomeCharacterModel.swift
+新文件 <-> 现有文件 : TB_WelcomeBlackController.swift      AA_HomeVC.swift
+新文件 <-> 现有文件 : TB_ProductView.swift      AA_HomeHeaderView.swift
+新文件 <-> 现有文件 : TB_BlackRoomCell.swift      AA_HomeCell.swift
+新文件 <-> 现有文件 : TB_SuccessCenterView.swift      AA_AIChatBackgroundPickerView.swift
+新文件 <-> 现有文件 : TB_ReportView.swift      AA_CreateAISuccessView.swift
+新文件 <-> 现有文件 : TB_CharacterSuccessController.swift      AA_ChatVC.swift
+新文件 <-> 现有文件 : TB_DetailRoom.swift      AA_ChatRoomMessage.swift
+新文件 <-> 现有文件 : TB_Chat.swift      AA_ChatMessageModel.swift
+新文件 <-> 现有文件 : TB_SegmentLoginController.swift      AA_VideoRoomVC.swift
+新文件 <-> 现有文件 : TB_DetailController.swift      AA_ChatRoomVC.swift
+新文件 <-> 现有文件 : TB_DataCell.swift      AA_ChatMessageCell.swift
+新文件 <-> 现有文件 : TB_LoginCell.swift      AA_ChatRoomBubbleCell.swift
+新文件 <-> 现有文件 : TB_CoinsView.swift      AA_ChatSegmentView.swift
+新文件 <-> 现有文件 : TB_CommunityBubbleController.swift      AA_ProfileVC.swift
+新文件 <-> 现有文件 : TB_HomeBubbleController.swift      AA_SettingVC.swift
+新文件 <-> 现有文件 : TB_UserProductController.swift      AA_EditVC.swift
+新文件 <-> 现有文件 : TB_LoginCommentController.swift      AA_FriendsListVC.swift
+新文件 <-> 现有文件 : TB_LoginController.swift      AA_BlackListVC.swift
+新文件 <-> 现有文件 : TB_DelegateDetailController.swift      AA_PersonVC.swift
+新文件 <-> 现有文件 : TB_CommunityController.swift      AA_ContactVC.swift
+新文件 <-> 现有文件 : TB_RoomView.swift      AA_ReportView.swift
+新文件 <-> 现有文件 : TB_DataPushCell.swift      AA_FriendsListCell.swift
+新文件 <-> 现有文件 : TB_ScreenChatCell.swift      AA_SettingCell.swift
+新文件 <-> 现有文件 : TB_HeaderProfileCell.swift      AA_BlacklistCell.swift
+新文件 <-> 现有文件 : TB_EmptyCell.swift      AA_CoinProductCell.swift
+新文件 <-> 现有文件 : TB_WelcomeView.swift      AA_ProfileHeaderView.swift
+新文件 <-> 现有文件 : TB_PostView.swift      AA_PersonHeaderView.swift
+新文件 <-> 现有文件 : TB_ExtensionController.swift      AA_CoinsVC.swift
+新文件 <-> 现有文件 : TB_BackgroundAvatar.swift      AA_CommunityCommentModel.swift
+新文件 <-> 现有文件 : TB_Base.swift      AA_CommunityPostModel.swift
+新文件 <-> 现有文件 : TB_InfoSegmentController.swift      AA_CommunityDetailVC.swift
+新文件 <-> 现有文件 : TB_NetworkController.swift      AA_CommunityVC.swift
+新文件 <-> 现有文件 : TB_WelcomeController.swift      AA_PushVC.swift
+新文件 <-> 现有文件 : TB_NewsView.swift      AA_CommunityDetailHeaderView.swift
+新文件 <-> 现有文件 : TB_ManagerPickerView.swift      AA_CommunitySegmentView.swift
+新文件 <-> 现有文件 : TB_DetailView.swift      AA_CommunityDetailInputView.swift
+新文件 <-> 现有文件 : TB_ProfileCurrentCell.swift      AA_CommunityCommentCell.swift
+新文件 <-> 现有文件 : TB_CreateCell.swift      AA_CommunityPostCell.swift
+新文件 <-> 现有文件 : TB_PickerController.swift      AA_LoginVC.swift
+新文件 <-> 现有文件 : TB_MessageStoreController.swift      AA_WelcomeVC.swift
+新文件 <-> 现有文件 : TB_AvatarLaunchController.swift      AA_InfoVC.swift
+新文件 <-> 现有文件 : TB_NewsController.swift      AA_FinishVC.swift
+新文件 <-> 现有文件 : TB_PersonController.swift      AA_InterestVC.swift
+新文件 <-> 现有文件 : TB_Picker.swift      UIColor+Extension.swift
+新文件 <-> 现有文件 : TB_BlacklistHomeView.swift      AA_EmptyView.swift
+新文件 <-> 现有文件 : TB_List.swift      UIImage+Extension.swift
+新文件 <-> 现有文件 : TB_FinishFriends.swift      AA_CommunityLocalStore.swift
+新文件 <-> 现有文件 : TB_ListPost.swift      AA_ChatLocalStore.swift
+新文件 <-> 现有文件 : TB_PickerWelcome.swift      AA_NetworkManager.swift
+新文件 <-> 现有文件 : TB_Modity.swift      AA_AILocalStore.swift
+新文件 <-> 现有文件 : TB_MainHome.swift      AA_CurrentUser.swift
+新文件 <-> 现有文件 : TB_LaunchComment.swift      AA_CommunityModel.swift
+新文件 <-> 现有文件 : TB_CharacterSegment.swift      AA_UserModel.swift
+新文件 <-> 现有文件 : TB_MainManager.swift      AA_IAPManager.swift
+新文件 <-> 现有文件 : TB_MainEmpty.swift      AA_UserLocalStore.swift
+新文件 <-> 现有文件 : TB_Background.swift      AA_UserData.swift
+新文件 <-> 现有文件 : TB_ExtensionPost.swift      AA_AIUserData.swift
+新文件 <-> 现有文件 : AppDelegate.swift      AppDelegate.swift
+新文件 <-> 现有文件 : TB_ListController.swift      AA_TabbarVC.swift
+新文件 <-> 现有文件 : TB_CommunityPostController.swift      AA_LaunchVC.swift
+新文件 <-> 现有文件 : TB_PickerManagerController.swift      AA_BaseVC.swift
+
+
+自动为您开启5个线程进行混淆。。。。。。。
+开始自动清理源代码中的注释。。。。。。
+
+
+
+
+开始提取所有源文件中的类名并生成新类名。。。。。。
+类名: ViewController <---替换为---> TB_InterestSuccessController
+类名: AA_AIChatMessage <---替换为---> TB_Tabbar
+类名: AA_AIChatRoomVC <---替换为---> TB_InfoController
+类名: AA_CreateAIVC <---替换为---> TB_ChatHeaderController
+类名: AA_HomeCharacterModel <---替换为---> TB_Current
+类名: AA_HomeVC <---替换为---> TB_WelcomeBlackController
+类名: AA_HomeHeaderView <---替换为---> TB_ProductView
+类名: AA_HomeCell <---替换为---> TB_BlackRoomCell
+类名: AA_AIChatBackgroundPickerView <---替换为---> TB_SuccessCenterView
+类名: AA_AIChatBackgroundCell <---替换为---> TB_ReportCell
+类名: AA_CreateAISuccessView <---替换为---> TB_ReportView
+类名: AA_ChatVC <---替换为---> TB_CharacterSuccessController
+类名: AA_ChatRoomMessage <---替换为---> TB_DetailRoom
+类名: AA_ChatMessageModel <---替换为---> TB_Chat
+类名: AA_VideoRoomVC <---替换为---> TB_SegmentLoginController
+类名: AA_ChatRoomVC <---替换为---> TB_DetailController
+类名: AA_ChatMessageCell <---替换为---> TB_DataCell
+类名: AA_ChatRoomBubbleCell <---替换为---> TB_LoginCell
+类名: AA_ChatSegmentView <---替换为---> TB_CoinsView
+类名: AA_ProfileVC <---替换为---> TB_CommunityBubbleController
+类名: AA_SettingVC <---替换为---> TB_HomeBubbleController
+类名: AA_EditVC <---替换为---> TB_UserProductController
+类名: AA_FriendsListVC <---替换为---> TB_LoginCommentController
+类名: AA_BlackListVC <---替换为---> TB_LoginController
+类名: AA_PersonVC <---替换为---> TB_DelegateDetailController
+类名: AA_ContactVC <---替换为---> TB_CommunityController
+类名: AA_ReportView <---替换为---> TB_RoomView
+类名: AA_FriendsListItem <---替换为---> TB_CreateItem
+类名: AA_FriendsListCell <---替换为---> TB_DataPushCell
+类名: AA_SettingCell <---替换为---> TB_ScreenChatCell
+类名: AA_BlacklistCell <---替换为---> TB_HeaderProfileCell
+类名: AA_CoinProduct <---替换为---> TB_Character
+类名: AA_CoinProductCell <---替换为---> TB_EmptyCell
+类名: AA_ProfileHeaderModel <---替换为---> TB_LaunchModity
+类名: AA_ProfileHeaderView <---替换为---> TB_WelcomeView
+类名: AA_ProfileStatCardView <---替换为---> TB_NewsBubbleView
+类名: AA_PersonHeaderModel <---替换为---> TB_Empty
+类名: AA_PersonHeaderView <---替换为---> TB_PostView
+类名: AA_CoinsVC <---替换为---> TB_ExtensionController
+类名: AA_CommunityCommentModel <---替换为---> TB_BackgroundAvatar
+类名: AA_CommunityPostModel <---替换为---> TB_Base
+类名: AA_CommunityDetailVC <---替换为---> TB_InfoSegmentController
+类名: AA_CommunityVC <---替换为---> TB_NetworkController
+类名: AA_PushVC <---替换为---> TB_WelcomeController
+类名: AA_CommunityDetailHeaderView <---替换为---> TB_NewsView
+类名: AA_CommunitySegmentView <---替换为---> TB_ManagerPickerView
+类名: AA_CommunityDetailInputView <---替换为---> TB_DetailView
+类名: AA_CommunityCommentCell <---替换为---> TB_ProfileCurrentCell
+类名: AA_CommunityPostCell <---替换为---> TB_CreateCell
+类名: AA_LoginVC <---替换为---> TB_PickerController
+类名: AA_WelcomeVC <---替换为---> TB_MessageStoreController
+类名: AA_InfoVC <---替换为---> TB_AvatarLaunchController
+类名: AA_FinishVC <---替换为---> TB_NewsController
+类名: AA_InterestItem <---替换为---> TB_ExtensionItem
+类名: AA_InterestCell <---替换为---> TB_BlacklistCell
+类名: AA_InterestVC <---替换为---> TB_PersonController
+类名: AA_EmptyView <---替换为---> TB_BlacklistHomeView
+类名: PostLikeState <---替换为---> TB_BlackInput
+类名: BlockedUser <---替换为---> TB_CenterRoom
+类名: AA_ChatStoredMessage <---替换为---> TB_EmptyCurrent
+类名: AA_ChatConversationRecord <---替换为---> TB_ManagerMain
+类名: AA_AIChatConversationRecord <---替换为---> TB_Header
+类名: AA_NetworkManager <---替换为---> TB_PickerWelcome
+类名: AA_CurrentUser <---替换为---> TB_MainHome
+类名: AA_CommunityModel <---替换为---> TB_LaunchComment
+类名: AA_UserModel <---替换为---> TB_CharacterSegment
+类名: AA_IAPManager <---替换为---> TB_MainManager
+类名: AA_SavedUserProfile <---替换为---> TB_Screen
+类名: AA_UserAccount <---替换为---> TB_ModityReport
+类名: AA_AIActionModel <---替换为---> TB_BubbleCoins
+类名: AA_AIUserModel <---替换为---> TB_Register
+类名: AppDelegate <---替换为---> AppDelegate
+类名: AA_PublishPlaceholderVC <---替换为---> TB_PostController
+类名: AA_CustomTabBarView <---替换为---> TB_LoginView
+类名: AA_TabbarVC <---替换为---> TB_ListController
+类名: AA_LaunchVC <---替换为---> TB_CommunityPostController
+类名: AA_BaseVC <---替换为---> TB_PickerManagerController
+
+
+开始替换所有源文件中的类名。。。。。。
+
+
+
+混淆类名耗时：0.001341104507446289秒
+
+
+混淆图片xml资源耗时：0.9174942970275879秒
+
+
+开始替换宏定义名称。。。。。。
+
+
+
+开始提取所有协议名并生成新协议名。。。。。。
+
+
+开始翻新xib、storyboard控件ID值以及布局微调。。。。。。
+
+
+开始混淆多语言文件的key名称。。。。。。
+
+
+开始自动检测类继承关系。。。。。。
+TB_InterestSuccessController : UIViewController
+TB_InfoController : TB_PickerManagerController
+TB_ChatHeaderController : TB_PickerManagerController
+TB_WelcomeBlackController : TB_PickerManagerController
+TB_ProductView : UIView
+TB_BlackRoomCell : UITableViewCell
+TB_SuccessCenterView : UIView
+TB_ReportCell : UICollectionViewCell
+TB_ReportView : UIView
+TB_CharacterSuccessController : TB_PickerManagerController
+TB_SegmentLoginController : TB_PickerManagerController
+TB_DetailController : TB_PickerManagerController
+TB_DataCell : UITableViewCell
+TB_LoginCell : UITableViewCell
+TB_CoinsView : UIView
+TB_CommunityBubbleController : TB_PickerManagerController
+TB_HomeBubbleController : TB_PickerManagerController
+TB_UserProductController : TB_PickerManagerController
+TB_LoginCommentController : TB_PickerManagerController
+TB_LoginController : TB_PickerManagerController
+TB_DelegateDetailController : TB_PickerManagerController
+TB_CommunityController : TB_PickerManagerController
+TB_RoomView : UIView
+TB_DataPushCell : UITableViewCell
+TB_ScreenChatCell : UITableViewCell
+TB_HeaderProfileCell : UITableViewCell
+TB_EmptyCell : UICollectionViewCell
+TB_WelcomeView : UIView
+TB_NewsBubbleView : UIView
+TB_PostView : UIView
+TB_ExtensionController : TB_PickerManagerController
+TB_InfoSegmentController : TB_PickerManagerController
+TB_NetworkController : TB_PickerManagerController
+TB_WelcomeController : TB_PickerManagerController
+TB_NewsView : UIView
+TB_ManagerPickerView : UIView
+TB_DetailView : UIView
+TB_ProfileCurrentCell : UITableViewCell
+TB_CreateCell : UITableViewCell
+TB_PickerController : TB_PickerManagerController
+TB_MessageStoreController : TB_PickerManagerController
+TB_AvatarLaunchController : TB_PickerManagerController
+TB_NewsController : TB_PickerManagerController
+TB_BlacklistCell : UICollectionViewCell
+TB_PersonController : TB_PickerManagerController
+TB_BlacklistHomeView : UIView
+TB_MainManager : NSObject
+AppDelegate : UIResponder
+TB_PostController : TB_PickerManagerController
+TB_LoginView : UIView
+TB_ListController : UITabBarController
+TB_CommunityPostController : UIViewController
+TB_PickerManagerController : UIViewController
+
+
+开始自动检测统计所有文件中属性信息。。。。。。
+
+
+开始自动修改Assets图片资源。。。。。。。
+
+Assets图片资源修改结束
+
+
+开始自动修改sks资源名称。。。。。。。
+
+sks资源修改结束
+
+开始打乱函数定义顺序。。。。。。。
+100%👌
+
+开始提取分析源文件中函数名称。。。。。。。
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: showReportView
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: reloadMessages
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: backButtonTapped
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: updateCollectButtonState
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: collectButtonTapped
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: hideCurrentAIUser
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: backgroundButtonTapped
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: loadMessages
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: setupData
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: confirmDeleteCustomAI
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: setupActions
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: scrollToBottom
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: persistMessage
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: scheduleAIReply
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: setupUI
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: makeMessageView
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: sendButtonTapped
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: submitMessage
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: rebuildMessageViews
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: reportButtonTapped
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController]    函数名称: showDeleteConfirmationAlert
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController]    函数名称: cameraButtonTapped
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController]    函数名称: createButtonTapped
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController]    函数名称: setupActions
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController]    函数名称: backButtonTapped
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController]    函数名称: setupPersonalityTags
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController]    函数名称: nicknameEditingChanged
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController]    函数名称: showCreateSuccessPopup
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController]    函数名称: updatePersonalitySelection
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController]    函数名称: makeSectionTitle
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController]    函数名称: personalityTapped
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController]    函数名称: setupUI
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController]    函数名称: updateNicknameCount
+文件: [旧 AA_HomeVC <--> 新 TB_WelcomeBlackController]    函数名称: setupTableHeader
+文件: [旧 AA_HomeVC <--> 新 TB_WelcomeBlackController]    函数名称: loadData
+文件: [旧 AA_HomeVC <--> 新 TB_WelcomeBlackController]    函数名称: setupUI
+文件: [旧 AA_HomeVC <--> 新 TB_WelcomeBlackController]    函数名称: handleTabChanged
+文件: [旧 AA_HomeVC <--> 新 TB_WelcomeBlackController]    函数名称: collectedAIUsers
+文件: [旧 AA_HomeVC <--> 新 TB_WelcomeBlackController]    函数名称: updateTableHeaderLayout
+文件: [旧 AA_HomeVC <--> 新 TB_WelcomeBlackController]    函数名称: handleGetStartedTap
+文件: [旧 AA_HomeHeaderView <--> 新 TB_ProductView]    函数名称: setupActions
+文件: [旧 AA_HomeHeaderView <--> 新 TB_ProductView]    函数名称: myAiTabTapped
+文件: [旧 AA_HomeHeaderView <--> 新 TB_ProductView]    函数名称: aiChatTabTapped
+文件: [旧 AA_HomeHeaderView <--> 新 TB_ProductView]    函数名称: setupUI
+文件: [旧 AA_HomeHeaderView <--> 新 TB_ProductView]    函数名称: updateTabSelection
+文件: [旧 AA_HomeHeaderView <--> 新 TB_ProductView]    函数名称: getStartedTapped
+文件: [旧 AA_HomeHeaderView <--> 新 TB_ProductView]    函数名称: selectTab
+文件: [旧 AA_HomeCell <--> 新 TB_BlackRoomCell]    函数名称: configureTags
+文件: [旧 AA_HomeCell <--> 新 TB_BlackRoomCell]    函数名称: setupStars
+文件: [旧 AA_HomeCell <--> 新 TB_BlackRoomCell]    函数名称: setupUI
+文件: [旧 AA_HomeCell <--> 新 TB_BlackRoomCell]    函数名称: configure
+文件: [旧 AA_AIChatBackgroundPickerView <--> 新 TB_SuccessCenterView]    函数名称: setupUI
+文件: [旧 AA_AIChatBackgroundPickerView <--> 新 TB_SuccessCenterView]    函数名称: dimTapped
+文件: [旧 AA_AIChatBackgroundPickerView <--> 新 TB_SuccessCenterView]    函数名称: setupActions
+文件: [旧 AA_AIChatBackgroundPickerView <--> 新 TB_SuccessCenterView]    函数名称: configure
+文件: [旧 AA_AIChatBackgroundPickerView <--> 新 TB_SuccessCenterView]    函数名称: setupUI
+文件: [旧 AA_CreateAISuccessView <--> 新 TB_ReportView]    函数名称: startChatTapped
+文件: [旧 AA_CreateAISuccessView <--> 新 TB_ReportView]    函数名称: setupActions
+文件: [旧 AA_CreateAISuccessView <--> 新 TB_ReportView]    函数名称: setupUI
+文件: [旧 AA_ChatVC <--> 新 TB_CharacterSuccessController]    函数名称: loadData
+文件: [旧 AA_ChatVC <--> 新 TB_CharacterSuccessController]    函数名称: handleSegmentChanged
+文件: [旧 AA_ChatVC <--> 新 TB_CharacterSuccessController]    函数名称: setupUI
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: setupActions
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: micButtonTapped
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: updateSpeakerRoute
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: configureUserInfo
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: stopCaptureSession
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: checkPermissionsAndStartIfNeeded
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: updateMicState
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: presentPermissionAlert
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: makeVideoInput
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: speakerButtonTapped
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: startCaptureSession
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: setupUI
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: requestPermissions
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: configureAudioSession
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: hangUpButtonTapped
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: makeAudioInput
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController]    函数名称: setupCameraIfNeeded
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController]    函数名称: confirmBlockUser
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController]    函数名称: reloadMessages
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController]    函数名称: setupData
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController]    函数名称: reportButtonTapped
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController]    函数名称: backButtonTapped
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController]    函数名称: videoButtonTapped
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController]    函数名称: setupActions
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController]    函数名称: sendButtonTapped
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController]    函数名称: scrollToBottom
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController]    函数名称: showBlockConfirmationAlert
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController]    函数名称: submitMessage
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController]    函数名称: persistMessage
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController]    函数名称: setupUI
+文件: [旧 AA_ChatMessageCell <--> 新 TB_DataCell]    函数名称: setupUI
+文件: [旧 AA_ChatMessageCell <--> 新 TB_DataCell]    函数名称: configure
+文件: [旧 AA_ChatRoomBubbleCell <--> 新 TB_LoginCell]    函数名称: setupUI
+文件: [旧 AA_ChatRoomBubbleCell <--> 新 TB_LoginCell]    函数名称: configure
+文件: [旧 AA_ChatSegmentView <--> 新 TB_CoinsView]    函数名称: allChatTapped
+文件: [旧 AA_ChatSegmentView <--> 新 TB_CoinsView]    函数名称: setupUI
+文件: [旧 AA_ChatSegmentView <--> 新 TB_CoinsView]    函数名称: aiChatTapped
+文件: [旧 AA_ChatSegmentView <--> 新 TB_CoinsView]    函数名称: updateSelection
+文件: [旧 AA_ChatSegmentView <--> 新 TB_CoinsView]    函数名称: setupActions
+文件: [旧 AA_ProfileVC <--> 新 TB_CommunityBubbleController]    函数名称: postDisplayModel
+文件: [旧 AA_ProfileVC <--> 新 TB_CommunityBubbleController]    函数名称: updateEmptyViewVisibility
+文件: [旧 AA_ProfileVC <--> 新 TB_CommunityBubbleController]    函数名称: updateTableHeaderLayout
+文件: [旧 AA_ProfileVC <--> 新 TB_CommunityBubbleController]    函数名称: setupUI
+文件: [旧 AA_ProfileVC <--> 新 TB_CommunityBubbleController]    函数名称: handleSegmentChanged
+文件: [旧 AA_ProfileVC <--> 新 TB_CommunityBubbleController]    函数名称: setupTableHeader
+文件: [旧 AA_ProfileVC <--> 新 TB_CommunityBubbleController]    函数名称: loadData
+文件: [旧 AA_ProfileVC <--> 新 TB_CommunityBubbleController]    函数名称: makeLikedPosts
+文件: [旧 AA_SettingVC <--> 新 TB_HomeBubbleController]    函数名称: switchToWelcome
+文件: [旧 AA_SettingVC <--> 新 TB_HomeBubbleController]    函数名称: setupUI
+文件: [旧 AA_SettingVC <--> 新 TB_HomeBubbleController]    函数名称: showDeleteAccountConfirmation
+文件: [旧 AA_SettingVC <--> 新 TB_HomeBubbleController]    函数名称: handleItemTap
+文件: [旧 AA_SettingVC <--> 新 TB_HomeBubbleController]    函数名称: backTapped
+文件: [旧 AA_SettingVC <--> 新 TB_HomeBubbleController]    函数名称: performDeleteAccount
+文件: [旧 AA_SettingVC <--> 新 TB_HomeBubbleController]    函数名称: showLogoutConfirmation
+文件: [旧 AA_SettingVC <--> 新 TB_HomeBubbleController]    函数名称: performLogout
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController]    函数名称: backButtonTapped
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController]    函数名称: makeFieldContainer
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController]    函数名称: datePickerChanged
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController]    函数名称: loadData
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController]    函数名称: parseBirthday
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController]    函数名称: updateNicknameCount
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController]    函数名称: cameraButtonTapped
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController]    函数名称: setupActions
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController]    函数名称: formattedDate
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController]    函数名称: datePickerDone
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController]    函数名称: saveButtonTapped
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController]    函数名称: nicknameTextChanged
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController]    函数名称: makeFieldTitleLabel
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController]    函数名称: setupUI
+文件: [旧 AA_FriendsListVC <--> 新 TB_LoginCommentController]    函数名称: openPersonPage
+文件: [旧 AA_FriendsListVC <--> 新 TB_LoginCommentController]    函数名称: updateTitle
+文件: [旧 AA_FriendsListVC <--> 新 TB_LoginCommentController]    函数名称: setupActions
+文件: [旧 AA_FriendsListVC <--> 新 TB_LoginCommentController]    函数名称: backTapped
+文件: [旧 AA_FriendsListVC <--> 新 TB_LoginCommentController]    函数名称: setupUI
+文件: [旧 AA_FriendsListVC <--> 新 TB_LoginCommentController]    函数名称: openChat
+文件: [旧 AA_FriendsListVC <--> 新 TB_LoginCommentController]    函数名称: loadData
+文件: [旧 AA_BlackListVC <--> 新 TB_LoginController]    函数名称: setupUI
+文件: [旧 AA_BlackListVC <--> 新 TB_LoginController]    函数名称: backTapped
+文件: [旧 AA_BlackListVC <--> 新 TB_LoginController]    函数名称: setupActions
+文件: [旧 AA_BlackListVC <--> 新 TB_LoginController]    函数名称: removeUser
+文件: [旧 AA_BlackListVC <--> 新 TB_LoginController]    函数名称: loadData
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController]    函数名称: updateTableHeaderLayout
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController]    函数名称: showBlockConfirmationAlert
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController]    函数名称: postDisplayModel
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController]    函数名称: setupUI
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController]    函数名称: setupTableHeader
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController]    函数名称: confirmBlockUser
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController]    函数名称: setupHeaderActions
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController]    函数名称: loadData
+文件: [旧 AA_ContactVC <--> 新 TB_CommunityController]    函数名称: sendEmailTapped
+文件: [旧 AA_ContactVC <--> 新 TB_CommunityController]    函数名称: setupActions
+文件: [旧 AA_ContactVC <--> 新 TB_CommunityController]    函数名称: backTapped
+文件: [旧 AA_ContactVC <--> 新 TB_CommunityController]    函数名称: copyEmailTapped
+文件: [旧 AA_ContactVC <--> 新 TB_CommunityController]    函数名称: setupUI
+文件: [旧 AA_ReportView <--> 新 TB_RoomView]    函数名称: blockTapped
+文件: [旧 AA_ReportView <--> 新 TB_RoomView]    函数名称: setupUI
+文件: [旧 AA_ReportView <--> 新 TB_RoomView]    函数名称: makeOptionButton
+文件: [旧 AA_ReportView <--> 新 TB_RoomView]    函数名称: dimTapped
+文件: [旧 AA_ReportView <--> 新 TB_RoomView]    函数名称: setupActions
+文件: [旧 AA_ReportView <--> 新 TB_RoomView]    函数名称: optionTapped
+文件: [旧 AA_FriendsListCell <--> 新 TB_DataPushCell]    函数名称: configure
+文件: [旧 AA_FriendsListCell <--> 新 TB_DataPushCell]    函数名称: setupUI
+文件: [旧 AA_FriendsListCell <--> 新 TB_DataPushCell]    函数名称: chatTapped
+文件: [旧 AA_FriendsListCell <--> 新 TB_DataPushCell]    函数名称: avatarTapped
+文件: [旧 AA_SettingCell <--> 新 TB_ScreenChatCell]    函数名称: configure
+文件: [旧 AA_SettingCell <--> 新 TB_ScreenChatCell]    函数名称: setupUI
+文件: [旧 AA_BlacklistCell <--> 新 TB_HeaderProfileCell]    函数名称: deleteTapped
+文件: [旧 AA_BlacklistCell <--> 新 TB_HeaderProfileCell]    函数名称: configure
+文件: [旧 AA_BlacklistCell <--> 新 TB_HeaderProfileCell]    函数名称: setupUI
+文件: [旧 AA_CoinProductCell <--> 新 TB_EmptyCell]    函数名称: configure
+文件: [旧 AA_CoinProductCell <--> 新 TB_EmptyCell]    函数名称: setupUI
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView]    函数名称: setupUI
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView]    函数名称: updateSegmentSelection
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView]    函数名称: editTapped
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView]    函数名称: followingTapped
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView]    函数名称: coinStoreTapped
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView]    函数名称: settingTapped
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView]    函数名称: followerTapped
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView]    函数名称: setupActions
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView]    函数名称: myPostTapped
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView]    函数名称: configureTags
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView]    函数名称: configure
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView]    函数名称: myLikedTapped
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView]    函数名称: setupUI
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView]    函数名称: setCount
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView]    函数名称: updateOwnProfileLayout
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView]    函数名称: videoTapped
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView]    函数名称: reloadParentTableViewIfNeeded
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView]    函数名称: followTapped
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView]    函数名称: setupActions
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView]    函数名称: configureTags
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView]    函数名称: chatTapped
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView]    函数名称: configure
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView]    函数名称: backTapped
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView]    函数名称: alertTapped
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView]    函数名称: setupUI
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView]    函数名称: isCurrentUserProfile
+文件: [旧 AA_CoinsVC <--> 新 TB_ExtensionController]    函数名称: setupActions
+文件: [旧 AA_CoinsVC <--> 新 TB_ExtensionController]    函数名称: displayProduct
+文件: [旧 AA_CoinsVC <--> 新 TB_ExtensionController]    函数名称: purchaseProduct
+文件: [旧 AA_CoinsVC <--> 新 TB_ExtensionController]    函数名称: setupIAP
+文件: [旧 AA_CoinsVC <--> 新 TB_ExtensionController]    函数名称: backButtonTapped
+文件: [旧 AA_CoinsVC <--> 新 TB_ExtensionController]    函数名称: updateBalance
+文件: [旧 AA_CoinsVC <--> 新 TB_ExtensionController]    函数名称: setupUI
+文件: [旧 AA_CommunityDetailVC <--> 新 TB_InfoSegmentController]    函数名称: backButtonTapped
+文件: [旧 AA_CommunityDetailVC <--> 新 TB_InfoSegmentController]    函数名称: setupUI
+文件: [旧 AA_CommunityDetailVC <--> 新 TB_InfoSegmentController]    函数名称: setupActions
+文件: [旧 AA_CommunityDetailVC <--> 新 TB_InfoSegmentController]    函数名称: updateTableHeaderLayout
+文件: [旧 AA_CommunityDetailVC <--> 新 TB_InfoSegmentController]    函数名称: refreshHeaderView
+文件: [旧 AA_CommunityDetailVC <--> 新 TB_InfoSegmentController]    函数名称: handleSendComment
+文件: [旧 AA_CommunityDetailVC <--> 新 TB_InfoSegmentController]    函数名称: setupTableHeader
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController]    函数名称: makePopularPosts
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController]    函数名称: loadData
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController]    函数名称: setupUI
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController]    函数名称: makeTitleAttributedText
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController]    函数名称: postDisplayModel
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController]    函数名称: makeFollowingPosts
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController]    函数名称: handleSegmentChanged
+文件: [旧 AA_PushVC <--> 新 TB_WelcomeController]    函数名称: updateSelectedPhoto
+文件: [旧 AA_PushVC <--> 新 TB_WelcomeController]    函数名称: setupUI
+文件: [旧 AA_PushVC <--> 新 TB_WelcomeController]    函数名称: publishButtonTapped
+文件: [旧 AA_PushVC <--> 新 TB_WelcomeController]    函数名称: backButtonTapped
+文件: [旧 AA_PushVC <--> 新 TB_WelcomeController]    函数名称: setupActions
+文件: [旧 AA_PushVC <--> 新 TB_WelcomeController]    函数名称: addPhotoTapped
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView]    函数名称: likeTapped
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView]    函数名称: isCurrentUserPost
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView]    函数名称: commentTapped
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView]    函数名称: showDeleteConfirmation
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView]    函数名称: configure
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView]    函数名称: setupUI
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView]    函数名称: showReportView
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView]    函数名称: configure
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView]    函数名称: moreTapped
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView]    函数名称: setupActions
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView]    函数名称: handlePostBlocked
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView]    函数名称: findViewController
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView]    函数名称: avatarTapped
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView]    函数名称: handlePostReported
+文件: [旧 AA_CommunitySegmentView <--> 新 TB_ManagerPickerView]    函数名称: setupActions
+文件: [旧 AA_CommunitySegmentView <--> 新 TB_ManagerPickerView]    函数名称: followingTapped
+文件: [旧 AA_CommunitySegmentView <--> 新 TB_ManagerPickerView]    函数名称: updateSelection
+文件: [旧 AA_CommunitySegmentView <--> 新 TB_ManagerPickerView]    函数名称: setupUI
+文件: [旧 AA_CommunitySegmentView <--> 新 TB_ManagerPickerView]    函数名称: popularTapped
+文件: [旧 AA_CommunityDetailInputView <--> 新 TB_DetailView]    函数名称: setupUI
+文件: [旧 AA_CommunityDetailInputView <--> 新 TB_DetailView]    函数名称: setupActions
+文件: [旧 AA_CommunityDetailInputView <--> 新 TB_DetailView]    函数名称: submitText
+文件: [旧 AA_CommunityDetailInputView <--> 新 TB_DetailView]    函数名称: sendTapped
+文件: [旧 AA_CommunityCommentCell <--> 新 TB_ProfileCurrentCell]    函数名称: findViewController
+文件: [旧 AA_CommunityCommentCell <--> 新 TB_ProfileCurrentCell]    函数名称: configure
+文件: [旧 AA_CommunityCommentCell <--> 新 TB_ProfileCurrentCell]    函数名称: setupUI
+文件: [旧 AA_CommunityCommentCell <--> 新 TB_ProfileCurrentCell]    函数名称: avatarTapped
+文件: [旧 AA_CommunityCommentCell <--> 新 TB_ProfileCurrentCell]    函数名称: setupActions
+文件: [旧 AA_CommunityCommentCell <--> 新 TB_ProfileCurrentCell]    函数名称: configure
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell]    函数名称: showDeleteConfirmation
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell]    函数名称: setupUI
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell]    函数名称: handlePostReported
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell]    函数名称: isCurrentUserPost
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell]    函数名称: showReportView
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell]    函数名称: handlePostBlocked
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell]    函数名称: likeTapped
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell]    函数名称: configure
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell]    函数名称: moreTapped
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell]    函数名称: followTapped
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell]    函数名称: commentTapped
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell]    函数名称: avatarTapped
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell]    函数名称: findViewController
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell]    函数名称: setupActions
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController]    函数名称: handleLogin
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController]    函数名称: footerTapped
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController]    函数名称: togglePasswordVisibility
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController]    函数名称: setupActions
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController]    函数名称: actionButtonTapped
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController]    函数名称: handleRegister
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController]    函数名称: backButtonTapped
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController]    函数名称: setupUI
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController]    函数名称: switchToHome
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController]    函数名称: updateFooterText
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController]    函数名称: updateUIForType
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController]    函数名称: didTapAttributedText
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController]    函数名称: didTapPrivacyPolicy
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController]    函数名称: clickLoginButton
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController]    函数名称: handleAgreementTap
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController]    函数名称: configureAgreementLabel
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController]    函数名称: characterIndex
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController]    函数名称: didTapUserAgreement
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController]    函数名称: setupUI
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController]    函数名称: clickStartButton
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController]    函数名称: continueButtonTapped
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController]    函数名称: datePickerChanged
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController]    函数名称: datePickerDone
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController]    函数名称: updateNicknameCount
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController]    函数名称: cameraButtonTapped
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController]    函数名称: setupActions
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController]    函数名称: formattedDate
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController]    函数名称: backButtonTapped
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController]    函数名称: nicknameTextChanged
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController]    函数名称: setupUI
+文件: [旧 AA_FinishVC <--> 新 TB_NewsController]    函数名称: switchToHome
+文件: [旧 AA_FinishVC <--> 新 TB_NewsController]    函数名称: clickStartButton
+文件: [旧 AA_FinishVC <--> 新 TB_NewsController]    函数名称: setupUI
+文件: [旧 AA_InterestVC <--> 新 TB_PersonController]    函数名称: configure
+文件: [旧 AA_InterestVC <--> 新 TB_PersonController]    函数名称: setupUI
+文件: [旧 AA_InterestVC <--> 新 TB_PersonController]    函数名称: continueButtonTapped
+文件: [旧 AA_InterestVC <--> 新 TB_PersonController]    函数名称: setupActions
+文件: [旧 AA_InterestVC <--> 新 TB_PersonController]    函数名称: setupUI
+文件: [旧 AA_InterestVC <--> 新 TB_PersonController]    函数名称: backButtonTapped
+文件: [旧 UIColor+Extension <--> 新 TB_Picker]    函数名称: hex
+文件: [旧 UIImage+Extension <--> 新 TB_List]    函数名称: aa_named
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: likeState
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: saveLikeState
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: saveFollowingUsernames
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: publishedPosts
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: appendPublishedPost
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: removePublishedPost
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: deletedPostIDs
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: markPostDeleted
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: reportedPostIDs
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: isPostReported
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: markPostReported
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: filterReportedPosts
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: isUserBlocked
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: addBlockedUser
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: addBlockedUser
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: removeBlockedUser
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: filterBlockedUsers
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: markAllPostsReported
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: blockUserCompletely
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: clearAllUserData
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: deletePostImage
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: removeComments
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: removeLike
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: savePostImage
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: saveComments
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: loadAll
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: saveAll
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: loadPublishedPosts
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: savePublishedPosts
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: loadLikes
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: saveLikes
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: loadDeletedPosts
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: saveDeletedPosts
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: loadReportedPosts
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: saveReportedPosts
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: loadBlockedUsers
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: saveBlockedUsers
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: loadFollowing
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends]    函数名称: saveFollowing
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: conversation
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: conversationList
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: removeConversation
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: makeChatUser
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: appendMessage
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: aiMessages
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: aiConversation
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: aiConversationList
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: appendAIMessage
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: removeAIConversation
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: clearAllUserData
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: loadAIAll
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: saveAIAll
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: loadAll
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost]    函数名称: saveAll
+文件: [旧 AA_NetworkManager <--> 新 TB_PickerWelcome]    函数名称: dismissLoadingIfNeeded
+文件: [旧 AA_NetworkManager <--> 新 TB_PickerWelcome]    函数名称: showLoadingIfNeeded
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: collectedAIUserIDs
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: setCollected
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: defaultCollected
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: loadCollected
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: saveCollected
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: customAIUsers
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: saveCustomAIUser
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: customAIUser
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: hiddenAIUserIDs
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: isAIUserHidden
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: hideAIUser
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: deleteCustomAIUser
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: clearAllUserData
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: saveCustomAIAvatar
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: deleteCustomAIAvatar
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: loadHidden
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: saveHidden
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: loadCustomUsers
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity]    函数名称: saveCustomUsers
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome]    函数名称: isMutualFriend
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome]    函数名称: isAICollected
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome]    函数名称: accountWithLocalPosts
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome]    函数名称: addCoins
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome]    函数名称: login
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome]    函数名称: deleteAccount
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome]    函数名称: restoreLoginStateIfNeeded
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome]    函数名称: isFollowing
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome]    函数名称: logout
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome]    函数名称: removePost
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome]    函数名称: setAICollected
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome]    函数名称: updateProfile
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome]    函数名称: setFollowing
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome]    函数名称: addPublishedPost
+文件: [旧 AA_IAPManager <--> 新 TB_MainManager]    函数名称: fetchProductsIfNeeded
+文件: [旧 AA_IAPManager <--> 新 TB_MainManager]    函数名称: displayPrice
+文件: [旧 AA_IAPManager <--> 新 TB_MainManager]    函数名称: purchase
+文件: [旧 AA_IAPManager <--> 新 TB_MainManager]    函数名称: completePurchase
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: saveCoins
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: saveProfile
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: registeredAccount
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: allRegisteredAccounts
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: saveRegisteredAccount
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: removeRegisteredAccount
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: clearAllUserData
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: deleteAvatar
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: saveAvatar
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: sanitizedEmail
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: normalizedEmail
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: loadRegisteredAccounts
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: saveRegisteredAccounts
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: loadProfiles
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: saveProfiles
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: loadCoins
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty]    函数名称: saveCoins
+文件: [旧 AA_UserData <--> 新 TB_Background]    函数名称: isFollowing
+文件: [旧 AA_UserData <--> 新 TB_Background]    函数名称: followers
+文件: [旧 AA_UserData <--> 新 TB_Background]    函数名称: followingUsers
+文件: [旧 AA_UserData <--> 新 TB_Background]    函数名称: postPath
+文件: [旧 AA_UserData <--> 新 TB_Background]    函数名称: makeAccount
+文件: [旧 AA_UserData <--> 新 TB_Background]    函数名称: makeComment
+文件: [旧 AA_UserData <--> 新 TB_Background]    函数名称: makePost
+文件: [旧 AA_AIUserData <--> 新 TB_ExtensionPost]    函数名称: makeCustomUser
+文件: [旧 AA_AIUserData <--> 新 TB_ExtensionPost]    函数名称: saveCustomUser
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController]    函数名称: setupUI
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController]    函数名称: imageHeight
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController]    函数名称: tabTapped
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController]    函数名称: contentOverlap
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController]    函数名称: setupTabs
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController]    函数名称: updateCustomTabBarVisibility
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController]    函数名称: setCustomTabBarHidden
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController]    函数名称: handlePublishTap
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController]    函数名称: setupCustomTabBarView
+
+
+开始混淆函数里面局部变量名称。。。。。。。
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController] 局部变量: width -> gradient
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController] 局部变量: height -> prefers
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController] 局部变量: alert -> push
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController] 局部变量: posts -> http
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController] 局部变量: withoutReported -> state
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController] 局部变量: chatUser -> response
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController] 局部变量: isFollowed -> ratio
+文件: [旧 AA_PersonVC <--> 新 TB_DelegateDetailController] 局部变量: post -> footer
+文件: [旧 AA_ChatVC <--> 新 TB_CharacterSuccessController] 局部变量: item -> fileItem
+文件: [旧 AA_ChatVC <--> 新 TB_CharacterSuccessController] 局部变量: aiUser -> photo
+文件: [旧 AA_HomeCell <--> 新 TB_BlackRoomCell] 局部变量: label -> peerLabel
+文件: [旧 AA_HomeCell <--> 新 TB_BlackRoomCell] 局部变量: container -> address
+文件: [旧 AA_HomeCell <--> 新 TB_BlackRoomCell] 局部变量: starView -> delayView
+文件: [旧 AA_IAPManager <--> 新 TB_MainManager] 局部变量: productIDs -> configured
+文件: [旧 AA_IAPManager <--> 新 TB_MainManager] 局部变量: formatter -> speaker
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController] 局部变量: button -> modelButton
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController] 局部变量: slotCount -> background
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController] 局部变量: slotWidth -> corner
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController] 局部变量: iconCenterY -> collection
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController] 局部变量: index -> audio
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController] 局部变量: isPublish -> chat
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController] 局部变量: originY -> subtitle
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController] 局部变量: barHeight -> personality
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController] 局部变量: isRoot -> v_height
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController] 局部变量: overlap -> collected
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController] 局部变量: applyChanges -> normalized
+文件: [旧 AA_TabbarVC <--> 新 TB_ListController] 局部变量: isRoot -> v_height
+文件: [旧 AA_NetworkManager <--> 新 TB_PickerWelcome] 局部变量: configuration -> logged
+文件: [旧 AA_NetworkManager <--> 新 TB_PickerWelcome] 局部变量: task -> update_u
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController] 局部变量: picker -> report
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController] 局部变量: toolbar -> cell
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController] 局部变量: flex -> presenter
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController] 局部变量: done -> size_i2
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController] 局部变量: nickname -> v_center
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController] 局部变量: birthday -> port
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController] 局部变量: user -> error
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController] 局部变量: count -> like
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController] 局部变量: picker -> report
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController] 局部变量: formatter -> speaker
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController] 局部变量: currentText -> policy
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController] 局部变量: updatedText -> capture
+文件: [旧 AA_InfoVC <--> 新 TB_AvatarLaunchController] 局部变量: image -> prefersImage
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: agreementTap -> container
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: loginVC -> networkController
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: label -> peerLabel
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: attributedText -> nnews
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: text -> refresh
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: location -> key
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: index -> audio
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: userAgreementRange -> segment
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: privacyPolicyRange -> home
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: fullText -> buttons
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: attributedText -> nnews
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: userAgreementRange -> segment
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: privacyPolicyRange -> home
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: textStorage -> value
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: layoutManager -> collected
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: textContainer -> reply
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: glyphIndex -> task
+文件: [旧 AA_WelcomeVC <--> 新 TB_MessageStoreController] 局部变量: registerVC -> sourceController
+文件: [旧 AA_HomeVC <--> 新 TB_WelcomeBlackController] 局部变量: collectedIDs -> happy
+文件: [旧 AA_HomeVC <--> 新 TB_WelcomeBlackController] 局部变量: width -> gradient
+文件: [旧 AA_HomeVC <--> 新 TB_WelcomeBlackController] 局部变量: height -> prefers
+文件: [旧 AA_HomeVC <--> 新 TB_WelcomeBlackController] 局部变量: aiUser -> photo
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController] 局部变量: port -> happy
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController] 局部变量: cameraStatus -> type_x5
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController] 局部变量: micStatus -> edit
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController] 局部变量: alert -> push
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController] 局部变量: input -> queue
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController] 局部变量: session -> intro
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController] 局部变量: input -> queue
+文件: [旧 AA_VideoRoomVC <--> 新 TB_SegmentLoginController] 局部变量: layer -> http
+文件: [旧 AA_CommunityDetailVC <--> 新 TB_InfoSegmentController] 局部变量: width -> gradient
+文件: [旧 AA_CommunityDetailVC <--> 新 TB_InfoSegmentController] 局部变量: height -> prefers
+文件: [旧 AA_CommunityDetailVC <--> 新 TB_InfoSegmentController] 局部变量: comment -> background
+文件: [旧 AA_PushVC <--> 新 TB_WelcomeController] 局部变量: content -> modity
+文件: [旧 AA_PushVC <--> 新 TB_WelcomeController] 局部变量: image -> prefersImage
+文件: [旧 AA_PushVC <--> 新 TB_WelcomeController] 局部变量: postID -> password
+文件: [旧 AA_PushVC <--> 新 TB_WelcomeController] 局部变量: post -> footer
+文件: [旧 AA_PushVC <--> 新 TB_WelcomeController] 局部变量: picker -> report
+文件: [旧 AA_PushVC <--> 新 TB_WelcomeController] 局部变量: image -> prefersImage
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: all -> dictionary
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: userConversations -> click
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: lastMessage -> dismiss
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: normalizedPeer -> star
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: all -> dictionary
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: userConversations -> click
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: record -> placeholder
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: storedMessage -> j_view
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: date -> port
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: formatter -> speaker
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: normalizedID -> prefers
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: all -> dictionary
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: userConversations -> click
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: record -> placeholder
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: storedMessage -> j_view
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: all -> dictionary
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: userConversations -> click
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: all -> dictionary
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: aiAll -> radius
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: dictionary -> documents
+文件: [旧 AA_ChatLocalStore <--> 新 TB_ListPost] 局部变量: dictionary -> documents
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: email -> price
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: password -> dim
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: text -> refresh
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: actionText -> dimQ
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: range -> capture
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: footerTap -> apply
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: email -> price
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: password -> dim
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: infoVC -> peerController
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: actionText -> dimQ
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: fullText -> buttons
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: attributed -> nav
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: layoutManager -> collected
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: textContainer -> reply
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: textStorage -> value
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: location -> key
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: textBoundingBox -> conversation
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: offset -> selection
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: point -> messages
+文件: [旧 AA_LoginVC <--> 新 TB_PickerController] 局部变量: index -> audio
+文件: [旧 AA_FriendsListVC <--> 新 TB_LoginCommentController] 局部变量: user -> error
+文件: [旧 AA_FriendsListVC <--> 新 TB_LoginCommentController] 局部变量: chatUser -> response
+文件: [旧 AA_FriendsListVC <--> 新 TB_LoginCommentController] 局部变量: email -> price
+文件: [旧 AA_FriendsListVC <--> 新 TB_LoginCommentController] 局部变量: blockedUsernames -> subtitle
+文件: [旧 AA_FriendsListVC <--> 新 TB_LoginCommentController] 局部变量: sourceUsers -> indicator
+文件: [旧 AA_FriendsListVC <--> 新 TB_LoginCommentController] 局部变量: item -> fileItem
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: all -> dictionary
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: ids -> intro
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: dictionary -> documents
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: all -> dictionary
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: users -> y_count
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: all -> dictionary
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: ids -> intro
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: all -> dictionary
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: users -> y_count
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: collectedAll -> login
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: hiddenAll -> l_manager
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: customAll -> anew_d
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: data -> delete_w
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: folderURL -> window_ir
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: fileURL -> person
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: fileURL -> person
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: dictionary -> documents
+文件: [旧 AA_AILocalStore <--> 新 TB_Modity] 局部变量: dictionary -> documents
+文件: [旧 AA_UserData <--> 新 TB_Background] 局部变量: followedNames -> conversation
+文件: [旧 AA_CreateAISuccessView <--> 新 TB_ReportView] 局部变量: containerView -> homeView
+文件: [旧 AA_CreateAISuccessView <--> 新 TB_ReportView] 局部变量: successView -> namesView
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell] 局部变量: alert -> push
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell] 局部变量: email -> price
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell] 局部变量: reportPopup -> row
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell] 局部变量: email -> price
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell] 局部变量: imageWidth -> placeholder
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell] 局部变量: presenter -> screen
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell] 局部变量: newFollowState -> subtitle
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell] 局部变量: presenter -> screen
+文件: [旧 AA_CommunityPostCell <--> 新 TB_CreateCell] 局部变量: responder -> inset
+文件: [旧 AA_SettingVC <--> 新 TB_HomeBubbleController] 局部变量: welcomeNavigationController -> deletedController
+文件: [旧 AA_SettingVC <--> 新 TB_HomeBubbleController] 局部变量: alert -> push
+文件: [旧 AA_SettingVC <--> 新 TB_HomeBubbleController] 局部变量: alert -> push
+文件: [旧 AA_CommunityDetailInputView <--> 新 TB_DetailView] 局部变量: text -> refresh
+文件: [旧 AA_ReportView <--> 新 TB_RoomView] 局部变量: button -> modelButton
+文件: [旧 AA_ReportView <--> 新 TB_RoomView] 局部变量: button -> modelButton
+文件: [旧 AA_ReportView <--> 新 TB_RoomView] 局部变量: optionCount -> application
+文件: [旧 AA_ReportView <--> 新 TB_RoomView] 局部变量: optionsHeight -> add
+文件: [旧 AA_ReportView <--> 新 TB_RoomView] 局部变量: containerView -> homeView
+文件: [旧 AA_ReportView <--> 新 TB_RoomView] 局部变量: reportView -> keyView
+文件: [旧 AA_ReportView <--> 新 TB_RoomView] 局部变量: tap -> container
+文件: [旧 UIImage+Extension <--> 新 TB_List] 局部变量: path -> request
+文件: [旧 UIImage+Extension <--> 新 TB_List] 局部变量: fileName -> bundle_
+文件: [旧 UIImage+Extension <--> 新 TB_List] 局部变量: baseName -> footer
+文件: [旧 UIImage+Extension <--> 新 TB_List] 局部变量: fileExtension -> own
+文件: [旧 UIImage+Extension <--> 新 TB_List] 局部变量: directory -> greeting
+文件: [旧 UIImage+Extension <--> 新 TB_List] 局部变量: localURL -> input
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController] 局部变量: reportPopup -> row
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController] 局部变量: picker -> report
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController] 局部变量: storedMessages -> check
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController] 局部变量: names -> append
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController] 局部变量: bottomOffset -> contact
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController] 局部变量: delay -> delay2
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController] 局部变量: reply -> k_width
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController] 局部变量: userInfoTrailingAnchor -> glyph
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController] 局部变量: container -> address
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController] 局部变量: bubbleView -> loadView
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController] 局部变量: textLabel -> pointLabel
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController] 局部变量: nameLabel -> storeLabel
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController] 局部变量: text -> refresh
+文件: [旧 AA_AIChatRoomVC <--> 新 TB_InfoController] 局部变量: alert -> push
+文件: [旧 AA_ProfileVC <--> 新 TB_CommunityBubbleController] 局部变量: width -> gradient
+文件: [旧 AA_ProfileVC <--> 新 TB_CommunityBubbleController] 局部变量: height -> prefers
+文件: [旧 AA_ProfileVC <--> 新 TB_CommunityBubbleController] 局部变量: communityPosts -> coins
+文件: [旧 AA_ProfileVC <--> 新 TB_CommunityBubbleController] 局部变量: merged -> session
+文件: [旧 AA_ProfileVC <--> 新 TB_CommunityBubbleController] 局部变量: withoutReported -> state
+文件: [旧 AA_ProfileVC <--> 新 TB_CommunityBubbleController] 局部变量: withoutBlocked -> nil_q2
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView] 局部变量: bannerWidth -> speaker
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView] 局部变量: label -> peerLabel
+文件: [旧 AA_ProfileHeaderView <--> 新 TB_WelcomeView] 局部变量: container -> address
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController] 局部变量: indexPath -> bottomy
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController] 局部变量: alert -> push
+文件: [旧 AA_ChatRoomVC <--> 新 TB_DetailController] 局部变量: text -> refresh
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: mergedAccount -> login
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: deletedIDs -> registered
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: localPosts -> point
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: trimmedEmail -> aspect
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: registeredUser -> navigation
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: account -> avataro
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: trimmedEmail -> aspect
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: email -> price
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: username -> character
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: savedAccount -> friend_yz
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: email -> price
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: trimmedUsername -> field
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: email -> price
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: avatarImageName -> filtered
+文件: [旧 AA_CurrentUser <--> 新 TB_MainHome] 局部变量: profile -> load
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: all -> dictionary
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: all -> dictionary
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: all -> dictionary
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: posts -> http
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: all -> dictionary
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: posts -> http
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: all -> dictionary
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: ids -> intro
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: all -> dictionary
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: ids -> intro
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: reportedIDs -> flex
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: avatar -> source
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: all -> dictionary
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: users -> y_count
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: all -> dictionary
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: users -> y_count
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: blockedNames -> responder
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: ids -> intro
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: matchedIDs -> success
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: publishedIDs -> like
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: ownIDs -> person
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: all -> dictionary
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: published -> changes
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: publishedAll -> timeout
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: followingAll -> profiles
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: deletedAll -> switch_a
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: reportedAll -> policy
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: blockedAll -> more
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: ownedPostIDs -> constraint
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: commentsAll -> userw
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: filtered -> privacy
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: documentsURL -> catalog
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: fileURL -> personq
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: all -> dictionary
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: all -> dictionary
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: data -> delete_w
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: folderURL -> window_ir
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: fileURL -> personq
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: all -> dictionary
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: merged -> session
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: dictionary -> documents
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: dictionary -> documents
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: dictionary -> documents
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: dictionary -> documents
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: dictionary -> documents
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: dictionary -> documents
+文件: [旧 AA_CommunityLocalStore <--> 新 TB_FinishFriends] 局部变量: dictionary -> documents
+文件: [旧 AA_AIChatBackgroundPickerView <--> 新 TB_SuccessCenterView] 局部变量: layout -> selection
+文件: [旧 AA_AIChatBackgroundPickerView <--> 新 TB_SuccessCenterView] 局部变量: rowCount -> universal
+文件: [旧 AA_AIChatBackgroundPickerView <--> 新 TB_SuccessCenterView] 局部变量: itemWidth -> logo
+文件: [旧 AA_AIChatBackgroundPickerView <--> 新 TB_SuccessCenterView] 局部变量: itemHeight -> follow
+文件: [旧 AA_AIChatBackgroundPickerView <--> 新 TB_SuccessCenterView] 局部变量: gridHeight -> screen
+文件: [旧 AA_AIChatBackgroundPickerView <--> 新 TB_SuccessCenterView] 局部变量: tap -> container
+文件: [旧 AA_AIChatBackgroundPickerView <--> 新 TB_SuccessCenterView] 局部变量: width -> gradient
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController] 局部变量: communityPosts -> coins
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController] 局部变量: merged -> session
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController] 局部变量: withoutReported -> state
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController] 局部变量: font -> shared
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController] 局部变量: isFollowed -> ratio
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController] 局部变量: merged -> session
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController] 局部变量: withoutReported -> state
+文件: [旧 AA_CommunityVC <--> 新 TB_NetworkController] 局部变量: post -> footer
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: all -> dictionary
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: all -> dictionary
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: all -> dictionary
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: all -> dictionary
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: profiles -> purchase
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: coins -> tcopy_6
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: fileName -> bundle_
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: fileURL -> person
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: data -> delete_w
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: fileName -> bundle_
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: folderURL -> window_ir
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: fileURL -> person
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: dictionary -> documents
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: dictionary -> documents
+文件: [旧 AA_UserLocalStore <--> 新 TB_MainEmpty] 局部变量: dictionary -> documents
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView] 局部变量: alert -> push
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView] 局部变量: isFollowed -> ratio
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView] 局部变量: reportPopup -> row
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView] 局部变量: imageWidth -> placeholder
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView] 局部变量: presenter -> screen
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView] 局部变量: email -> price
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView] 局部变量: responder -> inset
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView] 局部变量: presenter -> screen
+文件: [旧 AA_CommunityDetailHeaderView <--> 新 TB_NewsView] 局部变量: email -> price
+文件: [旧 AA_InterestVC <--> 新 TB_PersonController] 局部变量: layout -> selection
+文件: [旧 AA_InterestVC <--> 新 TB_PersonController] 局部变量: view -> tapView
+文件: [旧 AA_InterestVC <--> 新 TB_PersonController] 局部变量: totalSpacing -> birthday
+文件: [旧 AA_InterestVC <--> 新 TB_PersonController] 局部变量: width -> gradient
+文件: [旧 AA_BlackListVC <--> 新 TB_LoginController] 局部变量: username -> character
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: picker -> report
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: toolbar -> cell
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: flex -> presenter
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: done -> size_i2
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: view -> tapView
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: formatter -> speaker
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: count -> like
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: picker -> report
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: formatter -> speaker
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: nickname -> v_center
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: location -> key
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: bio -> table
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: birthday -> port
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: saved -> own
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: label -> peerLabel
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: currentText -> policy
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: updatedText -> capture
+文件: [旧 AA_EditVC <--> 新 TB_UserProductController] 局部变量: image -> prefersImage
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView] 局部变量: responder -> inset
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView] 局部变量: newFollowState -> subtitle
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView] 局部变量: label -> peerLabel
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView] 局部变量: container -> address
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView] 局部变量: isOwnProfile -> m_products
+文件: [旧 AA_PersonHeaderView <--> 新 TB_PostView] 局部变量: coverH -> updated
+文件: [旧 AA_ContactVC <--> 新 TB_CommunityController] 局部变量: address -> purchase
+文件: [旧 AA_ContactVC <--> 新 TB_CommunityController] 局部变量: emailTap -> room
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController] 局部变量: picker -> report
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController] 局部变量: nickname -> v_center
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController] 局部变量: personality -> deleted
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController] 局部变量: aiUser -> photo
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController] 局部变量: button -> modelButton
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController] 局部变量: popup -> icon
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController] 局部变量: aiUser -> photo
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController] 局部变量: nav -> usernamesView
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController] 局部变量: label -> peerLabel
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController] 局部变量: count -> like
+文件: [旧 AA_CreateAIVC <--> 新 TB_ChatHeaderController] 局部变量: image -> prefersImage
+文件: [旧 AA_CommunityCommentCell <--> 新 TB_ProfileCurrentCell] 局部变量: responder -> inset
+文件: [旧 AA_CommunityCommentCell <--> 新 TB_ProfileCurrentCell] 局部变量: presenter -> screen
+文件: [旧 AA_CoinsVC <--> 新 TB_ExtensionController] 局部变量: layout -> selection
+文件: [旧 AA_CoinsVC <--> 新 TB_ExtensionController] 局部变量: product -> flex
+文件: [旧 AA_CoinsVC <--> 新 TB_ExtensionController] 局部变量: product -> flex
+文件: [旧 AA_CoinsVC <--> 新 TB_ExtensionController] 局部变量: coins -> tcopy_6
+文件: [旧 AA_CoinsVC <--> 新 TB_ExtensionController] 局部变量: totalSpacing -> birthday
+文件: [旧 AA_CoinsVC <--> 新 TB_ExtensionController] 局部变量: width -> gradient
+文件: [旧 AA_AIUserData <--> 新 TB_ExtensionPost] 局部变量: hiddenIDs -> happy
+文件: [旧 AA_AIUserData <--> 新 TB_ExtensionPost] 局部变量: customUsers -> purchasing
+文件: [旧 AA_AIUserData <--> 新 TB_ExtensionPost] 局部变量: visibleCustomUsers -> constraint
+文件: [旧 AA_AIUserData <--> 新 TB_ExtensionPost] 局部变量: visibleBuiltInUsers -> publish
+
+
+开始自动生成垃圾代码文件。。。。。。。
+100%👌
+
+
+开始自动融合生成的垃圾代码文件。。。。。。
+100%👌
+
+
+开始自动随机生成属性并插入头文件和源文件。。。。。。。
+[old: ViewController -> new: TB_InterestSuccessController] insert  var videoConfirmationPermissionDict: [String: Any]!
+var publishedNormalized_dict: [String: Any]?
+private var has_Info: Bool? = false
+
+[old: AA_AIChatRoomVC -> new: TB_InfoController] insert  var box_padding: Double? = 0
+var agreementOffset: Float? = 0
+var widthRecordTargetStr: String?
+var interval_s0: Float? = 0
+
+[old: AA_AIChatRoomVC -> new: TB_InfoController] insert  private var lanMargin: Float? = 0.0
+var collectionLan_str: String?
+var presenterMargin: Double? = 0.0
+private var switch_8: Double? = 0.0
+
+[old: AA_CreateAIVC -> new: TB_ChatHeaderController] insert  var extension_3: Double? = 0.0
+private var randomBoxRegisteredArr: [Any]!
+
+[old: AA_HomeCharacterModel -> new: TB_Current] insert  var hasKey: Bool? = false
+var stop_max: Float? = 0
+var display_min: Double? = 0
+
+[old: AA_HomeVC -> new: TB_WelcomeBlackController] insert  var universal_index: Int? = 0
+var navigation_space: Double? = 0.0
+
+[old: AA_HomeHeaderView -> new: TB_ProductView] insert  var time_dConfirmStr: String?
+private var origin_margin: Double? = 0.0
+private var configuredOffset: Float? = 0.0
+private var showPreview_str: String?
+
+[old: AA_HomeCell -> new: TB_BlackRoomCell] insert  var segmentPadding: Double? = 0.0
+var supportFetchString: String!
+private var follow_min: Double? = 0.0
+private var collectCount: Int? = 0
+
+[old: AA_AIChatBackgroundPickerView -> new: TB_SuccessCenterView] insert  var popularSize: Double? = 0.0
+private var offsetMax: Float? = 0.0
+
+[old: AA_AIChatBackgroundPickerView -> new: TB_SuccessCenterView] insert  var cancel_min: Double? = 0.0
+var folderTestMap: [String: Any]!
+var has_Components: Bool? = false
+var save_size: Double? = 0.0
+
+[old: AA_CreateAISuccessView -> new: TB_ReportView] insert  var address_padding: Float? = 0.0
+private var lineIdsAgreementStr: String!
+private var buttonContinue_bActionStr: String?
+
+[old: AA_ChatVC -> new: TB_CharacterSuccessController] insert  var banner_offset: Float? = 0.0
+private var nextPadding: Double? = 0.0
+
+[old: AA_ChatRoomMessage -> new: TB_DetailRoom] insert  var reuseSpace: Float? = 0
+var changesHomeBounding_string: String!
+var formatterFriendsString: String?
+
+[old: AA_ChatMessageModel -> new: TB_Chat] insert  var loggedPadding: Float? = 0
+var done_margin: Double? = 0
+var buttonMax: Double? = 0
+var targetTag: Int? = 0
+
+[old: AA_VideoRoomVC -> new: TB_SegmentLoginController] insert  private var isCreate: Bool? = false
+private var click_space: Float? = 0.0
+
+[old: AA_ChatRoomVC -> new: TB_DetailController] insert  private var nextTag: Int? = 0
+private var remoteDescription_xq_str: String?
+
+[old: AA_ChatMessageCell -> new: TB_DataCell] insert  private var is_Message: Bool? = false
+private var table_max: Float? = 0.0
+
+[old: AA_ChatRoomBubbleCell -> new: TB_LoginCell] insert  private var targetSize: Double? = 0.0
+var showPersonAttributed_dictionary: [String: Any]!
+var cancelFont_string: String?
+var boxPresenter_str: String?
+
+[old: AA_ChatSegmentView -> new: TB_CoinsView] insert  private var headerSourceArr: [Any]!
+var users_space: Double? = 0.0
+var enbaleProduct: Bool? = false
+
+[old: AA_ProfileVC -> new: TB_CommunityBubbleController] insert  var coinsMark: Int? = 0
+private var blueSum: Int? = 0
+
+[old: AA_SettingVC -> new: TB_HomeBubbleController] insert  var canBlacklist: Bool? = false
+private var formatter_idx: Int? = 0
+var deletedParentMap: [String: Any]?
+var button_p: Int? = 0
+
+[old: AA_EditVC -> new: TB_UserProductController] insert  var scrollInterestsPhoto_arr: [Any]!
+private var peerSize: Float? = 0.0
+private var avatar_sum: Int? = 0
+var repliesAspectToggle_string: String!
+
+[old: AA_FriendsListVC -> new: TB_LoginCommentController] insert  var range_tag: Int? = 0
+private var constraintPolicyList: [Any]!
+
+[old: AA_BlackListVC -> new: TB_LoginController] insert  var is_Navigation: Bool? = false
+private var local_dl: Double? = 0.0
+private var register_yu: Double? = 0.0
+private var changesPresenter_string: String!
+
+[old: AA_PersonVC -> new: TB_DelegateDetailController] insert  private var contactSpace: Float? = 0.0
+private var documentsRoom_str: String!
+
+[old: AA_ContactVC -> new: TB_CommunityController] insert  var conversation_max: Double? = 0.0
+private var keyContentOwnedString: String!
+private var passwordLocal_7Directory_Array: [Any]?
+private var canPost: Bool? = false
+
+[old: AA_ReportView -> new: TB_RoomView] insert  private var docUniversal_list: [Any]?
+private var responderCancel_string: String?
+
+[old: AA_FriendsListCell -> new: TB_DataPushCell] insert  var enbaleOwned: Bool? = false
+var enbalePreview: Bool? = false
+var cornerOffset: Double? = 0
+
+[old: AA_FriendsListCell -> new: TB_DataPushCell] insert  var lanPeerRepliesString: String?
+var isUniversal: Bool? = false
+var aboutChattingIds_map: [String: Any]?
+var address_mark: Int? = 0
+
+[old: AA_SettingCell -> new: TB_ScreenChatCell] insert  var changesTotalString: String!
+private var can_Bubble: Bool? = false
+
+[old: AA_BlacklistCell -> new: TB_HeaderProfileCell] insert  var friends_sum: Int? = 0
+var full_max: Double? = 0.0
+private var hasAction: Bool? = false
+
+[old: AA_CoinProductCell -> new: TB_EmptyCell] insert  var register_ua: Double? = 0
+var photo_padding: Double? = 0
+var blacklistMax: Float? = 0
+
+[old: AA_CoinProductCell -> new: TB_EmptyCell] insert  private var scene_h: Double? = 0.0
+private var starsProfileNil_xqMap: [String: Any]!
+private var reply_margin: Double? = 0.0
+
+[old: AA_ProfileHeaderView -> new: TB_WelcomeView] insert  var storePadding: Float? = 0
+var indexes_offset: Double? = 0
+var overlapSpace: Double? = 0
+var published_space: Float? = 0
+
+[old: AA_ProfileHeaderView -> new: TB_WelcomeView] insert  private var cancel_size: Double? = 0.0
+var heightKeyCount_list: [Any]?
+var centerDisplayStr: String?
+
+[old: AA_ProfileHeaderView -> new: TB_WelcomeView] insert  private var is_Device: Bool? = false
+private var n_image: Double? = 0.0
+var loginPanel_str: String?
+
+[old: AA_PersonHeaderView -> new: TB_PostView] insert  var repliesSize: Double? = 0
+var has_Following: Bool? = false
+var state_min: Double? = 0
+var hexFont_string: String!
+
+[old: AA_PersonHeaderView -> new: TB_PostView] insert  var audioNavList: [Any]!
+private var personalityStartedString: String?
+var barSessionList: [Any]!
+private var default_t9: Double? = 0.0
+
+[old: AA_CoinsVC -> new: TB_ExtensionController] insert  private var optionsLikeSubtitle_dictionary: [String: Any]?
+private var toolbarMargin: Double? = 0.0
+var canPrice: Bool? = false
+private var ownedPadding: Float? = 0.0
+
+[old: AA_CommunityCommentModel -> new: TB_BackgroundAvatar] insert  var reportedIdx: Int? = 0
+var has_Save: Bool? = false
+
+[old: AA_CommunityPostModel -> new: TB_Base] insert  var default_6: Float? = 0
+var hasIcon: Bool? = false
+var listening_size: Double? = 0
+var port_index: Int? = 0
+
+[old: AA_CommunityDetailVC -> new: TB_InfoSegmentController] insert  var userBlockedOverlapStr: String!
+var labelFontCornerStr: String!
+var audioItemsToolbar_list: [Any]?
+var mutualOffset: Double? = 0.0
+
+[old: AA_CommunityVC -> new: TB_NetworkController] insert  var valueTabContainerDictionary: [String: Any]?
+private var more_offset: Double? = 0.0
+private var successMax: Double? = 0.0
+var tapConfirmationCaptureArr: [Any]?
+
+[old: AA_PushVC -> new: TB_WelcomeController] insert  var chatPadding: Float? = 0.0
+private var iapGridWith_wq_list: [Any]!
+
+[old: AA_CommunityDetailHeaderView -> new: TB_NewsView] insert  private var cameraDisplayArr: [Any]?
+var isShowing: Bool? = false
+private var peerMark: Int? = 0
+
+[old: AA_CommunitySegmentView -> new: TB_ManagerPickerView] insert  private var itemSelBackgroundDict: [String: Any]?
+var stackSize: Double? = 0.0
+
+[old: AA_CommunityDetailInputView -> new: TB_DetailView] insert  private var type_c: Float? = 0.0
+var sharedDelay_dictionary: [String: Any]!
+private var fileMax: Double? = 0.0
+
+[old: AA_CommunityCommentCell -> new: TB_ProfileCurrentCell] insert  private var enbale_Published: Bool? = false
+var window_csBanner_map: [String: Any]?
+
+[old: AA_CommunityPostCell -> new: TB_CreateCell] insert  private var tabAddProduct_str: String?
+var actionsListSelectStr: String!
+private var attributed_offset: Double? = 0.0
+var lanTag: Int? = 0
+
+[old: AA_LoginVC -> new: TB_PickerController] insert  var micChangesList: [Any]?
+private var gridReturn_m_Array: [Any]!
+var room_tag: Int? = 0
+var withoutDataFollowed_Array: [Any]?
+
+[old: AA_WelcomeVC -> new: TB_MessageStoreController] insert  private var header_max: Float? = 0.0
+private var tapSpace: Float? = 0.0
+
+[old: AA_InfoVC -> new: TB_AvatarLaunchController] insert  var changedMargin: Float? = 0.0
+var loadingNewsLan_str: String?
+
+[old: AA_FinishVC -> new: TB_NewsController] insert  private var location_min: Float? = 0.0
+var headerMargin: Float? = 0.0
+private var checkDisplay_string: String?
+
+[old: AA_InterestVC -> new: TB_PersonController] insert  var lineSavedBirthday_str: String?
+var y_title: Bool? = false
+var conversationsMark: Int? = 0
+var ownMargin: Double? = 0
+
+[old: AA_InterestVC -> new: TB_PersonController] insert  private var lastContactString: String!
+private var scene_k: Double? = 0.0
+
+[old: AA_InterestVC -> new: TB_PersonController] insert  var indexesOffset: Float? = 0.0
+var delay_max: Double? = 0.0
+private var window_l7DelayChatMap: [String: Any]!
+var dataEditDictionary: [String: Any]!
+
+[old: AA_EmptyView -> new: TB_BlacklistHomeView] insert  private var actionSelected_dictionary: [String: Any]?
+var filtered_size: Float? = 0.0
+var attributedMax: Double? = 0.0
+var scrollNewsProducts_map: [String: Any]?
+
+[old: AA_CommunityLocalStore -> new: TB_FinishFriends] insert  var has_Toggle: Bool? = false
+var hang_size: Double? = 0
+var hasCurrent: Bool? = false
+var passwordCameraSlotString: String!
+
+[old: AA_CommunityLocalStore -> new: TB_FinishFriends] insert  var description_psSlot_str: String!
+var builtHandleRemove_string: String?
+var user_min: Double? = 0
+var checkOffset: Float? = 0
+
+[old: AA_ChatLocalStore -> new: TB_ListPost] insert  var responderCountStr: String?
+var reuse_padding: Double? = 0
+
+[old: AA_ChatLocalStore -> new: TB_ListPost] insert  var matched_padding: Float? = 0
+var enbaleSegment: Bool? = false
+var person_margin: Float? = 0
+
+[old: AA_ChatLocalStore -> new: TB_ListPost] insert  var findAction_str: String?
+var window_c_: Double? = 0
+
+[old: AA_NetworkManager -> new: TB_PickerWelcome] insert  var horizontal_max: Double? = 0.0
+private var max_z: Float? = 0.0
+private var confirm_max: Double? = 0.0
+private var isAccounts: Bool? = false
+
+[old: AA_CurrentUser -> new: TB_MainHome] insert  private var person_space: Double? = 0.0
+private var conversationPadding: Double? = 0.0
+private var footer_g: Double? = 0.0
+
+[old: AA_CommunityModel -> new: TB_LaunchComment] insert  var logged_margin: Double? = 0
+var purchasing_offset: Float? = 0
+var mic_offset: Double? = 0
+
+[old: AA_CommunityModel -> new: TB_LaunchComment] insert  var has_Names: Bool? = false
+var parentSize: Double? = 0
+var storeMin: Double? = 0
+
+[old: AA_UserModel -> new: TB_CharacterSegment] insert  var finishIdx: Int? = 0
+var welcomePadding: Double? = 0
+
+[old: AA_IAPManager -> new: TB_MainManager] insert  private var labelSize: Double? = 0.0
+var supportMin: Double? = 0.0
+var following_idx: Int? = 0
+
+[old: AA_UserLocalStore -> new: TB_MainEmpty] insert  var spacingPadding: Double? = 0
+var registeredMin: Double? = 0
+
+[old: AA_UserData -> new: TB_Background] insert  var radius_tag: Int? = 0
+var httpComponentsPermission_str: String!
+
+[old: AA_AIUserData -> new: TB_ExtensionPost] insert  var friends_space: Double? = 0
+var storeMargin: Double? = 0
+var delegate_60: Int? = 0
+var bubbleNormalizedMessageStr: String!
+
+[old: AA_AIUserData -> new: TB_ExtensionPost] insert  var enbale_Container: Bool? = false
+var conversationDocCharacters_str: String!
+
+[old: AppDelegate -> new: AppDelegate] insert  var keyMargin: Double? = 0.0
+var dictionaryChangeMap: [String: Any]?
+
+[old: AA_TabbarVC -> new: TB_ListController] insert  var fileBlackString: String!
+var enbale_Confirm: Bool? = false
+var iconCustomArray: [Any]?
+var presenterOffset: Float? = 0.0
+
+[old: AA_TabbarVC -> new: TB_ListController] insert  var statsMessagePrefix_j_Array: [Any]?
+private var sessionSharedDictionary: [String: Any]?
+
+[old: AA_TabbarVC -> new: TB_ListController] insert  private var successAllString: String?
+private var namesMockButtonsStr: String!
+private var enbaleLaunch: Bool? = false
+var pushStackStr: String!
+
+[old: AA_LaunchVC -> new: TB_CommunityPostController] insert  private var aboutMargin: Double? = 0.0
+private var subtitleLike_string: String?
+var characterSum: Int? = 0
+
+[old: AA_BaseVC -> new: TB_PickerManagerController] insert  private var selectReplyStr: String?
+var display_flag: Int? = 0
+
+
+
+开始自动加密混淆字符串。。。。。。。
+"https://docs.google.com/document/d/1j9LyqJ1rK324I0HtEYl3oCL2f8tN9eXkUdAdHSOpH9E/edit?usp=sharing"
+"https://docs.google.com/document/d/1KCKw83axMdk1gU380YhsZUs4mI1d8Y_47L9OQaUYT7Y/edit?usp=sharing"
+"https://docs.google.com/document/d/1j9LyqJ1rK324I0HtEYl3oCL2f8tN9eXkUdAdHSOpH9E/edit?usp=sharing"
+"https://docs.google.com/document/d/1KCKw83axMdk1gU380YhsZUs4mI1d8Y_47L9OQaUYT7Y/edit?usp=sharing"
+"https://test.fiveukmedia.xyz/hua/pl"
+"https://www.youtube.com/shorts/klV-AfP7vTg?feature=share"
+
+
+开始融合并调用生成的垃圾代码文件函数或者类。。。。。。。
+100%👌
+
+开始扰乱改变函数里面执行顺序。。。。。。。
+100%👌
+
+
+开始插入混淆函数并在现有函数体里面自动插入混淆函数调用语句。。。。。。。
+100%👌
+
+
+开始自动插入头文件混淆函数定义语句。。。。。。。
+100%👌
+
+
+开始生成新混淆源文件。。。。。。。
+100%👌
+
+
+开始自动更新项目配置。。。。。。。
+100%👌

@@ -1,0 +1,502 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0C38954108934685ER35211A /* Pods_Tumbli.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7960JE0RDY5302C110S08521 /* Pods_Tumbli.framework */; };
+		DB45725I4P937KL33A38967Z /* TB_ContactObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = LN9JD81I4TR3423C08336281 /* TB_ContactObject.swift */; };
+		HA223652RY4619Z7363B9DU0 /* TB_PersonObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = PM2XCD2T6143860B13143126 /* TB_PersonObject.swift */; };
+		MR2171IJ289O8901923066OW /* TB_InputCommunityController.swift in Sources */ = {isa = PBXBuildFile; fileRef = SY7117T0M6694713M8639C73 /* TB_InputCommunityController.swift */; };
+		NO834K879D55622CD8E3PMC1 /* TB_InterestController.swift in Sources */ = {isa = PBXBuildFile; fileRef = JHY6V02O3K2I43W92WX8EL76 /* TB_InterestController.swift */; };
+		OQI5132516Q0325M824F5W16 /* TB_DelegateObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = GB10756X9659GRK253305535 /* TB_DelegateObject.swift */; };
+		QA36R295424E21A6Q50RCZ75 /* TB_CurrentObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = ULP0K087LLC9PE862AD55541 /* TB_CurrentObject.swift */; };
+		SX17116431W5361692NM5E9R /* TB_BubbleController.swift in Sources */ = {isa = PBXBuildFile; fileRef = UJBC840VU99449I78O4197U8 /* TB_BubbleController.swift */; };
+		VMY1O770F6QT615PM0457768 /* TB_SettingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = LR08FU864K14LVX9C3482437 /* TB_SettingController.swift */; };
+		WD842793600P7745610173Y5 /* TB_EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ZX07513Y39X594237T05UN9O /* TB_EditView.swift */; };
+		WG81TC474858U38T1022HMQH /* TB_NetworkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = VD3518ZVU81245538R83E2D1 /* TB_NetworkView.swift */; };
+		WL6C00O09Q6U48Q17SZ2S448 /* TB_FriendsObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = VI8J8N0NR03F2WIF9E3ZT3LW /* TB_FriendsObject.swift */; };
+		ZT007H172G93260K095PN31J /* TB_FriendsCurrentController.swift in Sources */ = {isa = PBXBuildFile; fileRef = LF822699Z4W408JM64340C6E /* TB_FriendsCurrentController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		049M1234Z1630093Y3108914 /* Tumbli.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tumbli.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		47Y806AIZT1N997S2JG76F9R /* Pods-Tumbli.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tumbli.debug.xcconfig"; path = "Target Support Files/Pods-Tumbli/Pods-Tumbli.debug.xcconfig"; sourceTree = "<group>"; };
+		7960JE0RDY5302C110S08521 /* Pods_Tumbli.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Tumbli.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A7628W8F9583RG1F9Q3419DR /* Pods-Tumbli.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tumbli.release.xcconfig"; path = "Target Support Files/Pods-Tumbli/Pods-Tumbli.release.xcconfig"; sourceTree = "<group>"; };
+		GB10756X9659GRK253305535 /* TB_DelegateObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = TB_DelegateObject.swift; sourceTree = "<group>"; };
+		JHY6V02O3K2I43W92WX8EL76 /* TB_InterestController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = TB_InterestController.swift; sourceTree = "<group>"; };
+		LF822699Z4W408JM64340C6E /* TB_FriendsCurrentController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = TB_FriendsCurrentController.swift; sourceTree = "<group>"; };
+		LN9JD81I4TR3423C08336281 /* TB_ContactObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = TB_ContactObject.swift; sourceTree = "<group>"; };
+		LR08FU864K14LVX9C3482437 /* TB_SettingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = TB_SettingController.swift; sourceTree = "<group>"; };
+		PM2XCD2T6143860B13143126 /* TB_PersonObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = TB_PersonObject.swift; sourceTree = "<group>"; };
+		SY7117T0M6694713M8639C73 /* TB_InputCommunityController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = TB_InputCommunityController.swift; sourceTree = "<group>"; };
+		UJBC840VU99449I78O4197U8 /* TB_BubbleController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = TB_BubbleController.swift; sourceTree = "<group>"; };
+		ULP0K087LLC9PE862AD55541 /* TB_CurrentObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = TB_CurrentObject.swift; sourceTree = "<group>"; };
+		VD3518ZVU81245538R83E2D1 /* TB_NetworkView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = TB_NetworkView.swift; sourceTree = "<group>"; };
+		VI8J8N0NR03F2WIF9E3ZT3LW /* TB_FriendsObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = TB_FriendsObject.swift; sourceTree = "<group>"; };
+		ZX07513Y39X594237T05UN9O /* TB_EditView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = TB_EditView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		0411M637Z7YL958872H35T0A /* Exceptions for "Tumbli" folder in "Tumbli" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 043H450U69419S5532DL8POM /* Tumbli */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		04C02105K5H11W0L6LHV1710 /* Tumbli */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				0411M637Z7YL958872H35T0A /* Exceptions for "Tumbli" folder in "Tumbli" target */,
+			);
+			path = Tumbli;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		04V5Q1018E1549F884G13G88 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C38954108934685ER35211A /* Pods_Tumbli.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		04388LM76MZ734648BG540C6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				049M1234Z1630093Y3108914 /* Tumbli.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0457412N01P4I1D4L1C0LT03 = {
+			isa = PBXGroup;
+			children = (
+				04C02105K5H11W0L6LHV1710 /* Tumbli */,
+				04388LM76MZ734648BG540C6 /* Products */,
+				DBE4JU41X2Y40C54N22R0E8B /* Pods */,
+				C73W856602G28RD1ZD9KW87R /* Frameworks */,
+				TM03729Z0W83Q3604FO62FT5 /* trilinear */,
+			);
+			sourceTree = "<group>";
+		};
+		C73W856602G28RD1ZD9KW87R /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7960JE0RDY5302C110S08521 /* Pods_Tumbli.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DBE4JU41X2Y40C54N22R0E8B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				47Y806AIZT1N997S2JG76F9R /* Pods-Tumbli.debug.xcconfig */,
+				A7628W8F9583RG1F9Q3419DR /* Pods-Tumbli.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		TM03729Z0W83Q3604FO62FT5 /* trilinear */ = {
+			isa = PBXGroup;
+			children = (
+				VI8J8N0NR03F2WIF9E3ZT3LW /* TB_FriendsObject.swift */,
+				UJBC840VU99449I78O4197U8 /* TB_BubbleController.swift */,
+				LN9JD81I4TR3423C08336281 /* TB_ContactObject.swift */,
+				GB10756X9659GRK253305535 /* TB_DelegateObject.swift */,
+				JHY6V02O3K2I43W92WX8EL76 /* TB_InterestController.swift */,
+				SY7117T0M6694713M8639C73 /* TB_InputCommunityController.swift */,
+				LF822699Z4W408JM64340C6E /* TB_FriendsCurrentController.swift */,
+				PM2XCD2T6143860B13143126 /* TB_PersonObject.swift */,
+				ULP0K087LLC9PE862AD55541 /* TB_CurrentObject.swift */,
+				LR08FU864K14LVX9C3482437 /* TB_SettingController.swift */,
+				ZX07513Y39X594237T05UN9O /* TB_EditView.swift */,
+				VD3518ZVU81245538R83E2D1 /* TB_NetworkView.swift */,
+			);
+			path = trilinear;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		043H450U69419S5532DL8POM /* Tumbli */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04J895103U3939X3E340E84G /* Build configuration list for PBXNativeTarget "Tumbli" */;
+			buildPhases = (
+				BD3P52K704S3H419YW20A8A4 /* [CP] Check Pods Manifest.lock */,
+				043Z71J189X674040FG282L4 /* Sources */,
+				04V5Q1018E1549F884G13G88 /* Frameworks */,
+				0436OGZOB42354E694U54021 /* Resources */,
+				DA79C783390669V6RR09447D /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				04C02105K5H11W0L6LHV1710 /* Tumbli */,
+			);
+			name = Tumbli;
+			productName = Tumbli;
+			productReference = 049M1234Z1630093Y3108914 /* Tumbli.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0400340203CB6UZ13L9KRY0I /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				CLASSPREFIX = AA_;
+				LastSwiftUpdateCheck = 2620;
+				LastUpgradeCheck = 2620;
+				TargetAttributes = {
+					043H450U69419S5532DL8POM = {
+						CreatedOnToolsVersion = 26.2;
+					};
+				};
+			};
+			buildConfigurationList = 0478407251D562GSY3U3015W /* Build configuration list for PBXProject "Tumbli" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0457412N01P4I1D4L1C0LT03;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 04388LM76MZ734648BG540C6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				043H450U69419S5532DL8POM /* Tumbli */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0436OGZOB42354E694U54021 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		BD3P52K704S3H419YW20A8A4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Tumbli-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DA79C783390669V6RR09447D /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Tumbli/Pods-Tumbli-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Tumbli/Pods-Tumbli-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Tumbli/Pods-Tumbli-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		043Z71J189X674040FG282L4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				WL6C00O09Q6U48Q17SZ2S448 /* TB_FriendsObject.swift in Sources */,
+				SX17116431W5361692NM5E9R /* TB_BubbleController.swift in Sources */,
+				DB45725I4P937KL33A38967Z /* TB_ContactObject.swift in Sources */,
+				OQI5132516Q0325M824F5W16 /* TB_DelegateObject.swift in Sources */,
+				NO834K879D55622CD8E3PMC1 /* TB_InterestController.swift in Sources */,
+				MR2171IJ289O8901923066OW /* TB_InputCommunityController.swift in Sources */,
+				ZT007H172G93260K095PN31J /* TB_FriendsCurrentController.swift in Sources */,
+				HA223652RY4619Z7363B9DU0 /* TB_PersonObject.swift in Sources */,
+				QA36R295424E21A6Q50RCZ75 /* TB_CurrentObject.swift in Sources */,
+				VMY1O770F6QT615PM0457768 /* TB_SettingController.swift in Sources */,
+				WD842793600P7745610173Y5 /* TB_EditView.swift in Sources */,
+				WG81TC474858U38T1022HMQH /* TB_NetworkView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		043617O9E18V94LA7753E046 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		0480726SK36071397X09F611 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A7628W8F9583RG1F9Q3419DR /* Pods-Tumbli.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Tumbli/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Tumbli;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to your camera for video calls.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "We need access to your microphone for video calls.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photo library to set your profile picture.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.;
+				PRODUCT_BUNDLE_IDENTIFIER = com.AnimeSocial.tumbli;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		048809SD2281727IG5V8374L /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 47Y806AIZT1N997S2JG76F9R /* Pods-Tumbli.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Tumbli/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Tumbli;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to your camera for video calls.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "We need access to your microphone for video calls.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photo library to set your profile picture.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.;
+				PRODUCT_BUNDLE_IDENTIFIER = com.AnimeSocial.tumbli;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		04ZL1C5771O9883W046914K0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0478407251D562GSY3U3015W /* Build configuration list for PBXProject "Tumbli" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				043617O9E18V94LA7753E046 /* Debug */,
+				04ZL1C5771O9883W046914K0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04J895103U3939X3E340E84G /* Build configuration list for PBXNativeTarget "Tumbli" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				048809SD2281727IG5V8374L /* Debug */,
+				0480726SK36071397X09F611 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0400340203CB6UZ13L9KRY0I /* Project object */;
+}
